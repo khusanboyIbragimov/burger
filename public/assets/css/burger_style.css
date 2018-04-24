@@ -1,0 +1,22 @@
+body {
+  background-image: url("../img/gourmet-background.jpg");
+  background-image: 100%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+img {
+  width: 15%;
+}
+
+.red_font {
+  color: #f4c242;;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
