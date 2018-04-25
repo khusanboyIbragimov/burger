@@ -21,13 +21,13 @@ Your app will store every burger in a database, whether devoured or not.
 
 ### Technologies Used
 
-HTML, Bootstrap & CSS for the layout
-Node.js
-Modules: express, body-parser
+* HTML, Bootstrap & CSS for the layout
+* Node.js
+* Modules: express, body-parser
 ### Code Explaination
 
-Used HTML/ bootstrap/ CSS for layout
-MySQL to store burger data from user to communicate with database
-Node.js to route data in app
-Handlebars to generate HTML
+* Used HTML/ bootstrap/ CSS for layout
+* MySQL to store burger data from user to communicate with database
+* Node.js to route data in app
+* Handlebars to generate HTML
 
