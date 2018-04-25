@@ -1,16 +1,15 @@
-#Eat Da Burger!
+## Eat Da Burger!
 
 
-### Overview
+## Overview
 A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them!
 Please check out the launched app on Heroku [here](https://guarded-springs-49861.herokuapp.com/)!
 
+### Description on how to use the app
+The burger app allows the user to add a type of burger using a form and "Place Order" button. The burger then shows up to the left of the page with a "Devour it" button, allowing the user to eat the burger. The eaten burger then moves to the right of the page.
 
-## Description on how to use the app
-The burger app allows the user to add a type of burger using a form and submit button. The burger then shows up to the left of the page with a "Eat me" button, allowing the user to eat the burger. The eaten burger then moves to the right of the page.
-
-## Requirements
-Create a burger logger with MySQL, Node, Express, Handlebars and Sequelize. Use Node and Sequelize to query and route data in app, and Handlebars to generate HTML.
+### Requirements
+Create a burger logger with MySQL, Node, Express, Handlebars. 
 
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
@@ -20,20 +19,15 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 
 Your app will store every burger in a database, whether devoured or not.
 
-*This app is similar to the burger app, but it has been sequelized
-
-## Technologies Used
+### Technologies Used
 
 HTML, Bootstrap & CSS for the layout
 Node.js
-Modules: express, body-parser, path
-MySQL/Sequelize
-Handlebars
-
-## Code Explaination
+Modules: express, body-parser
+### Code Explaination
 
 Used HTML/ bootstrap/ CSS for layout
-MySQL to store burger data from user, and Sequelize to communicate with database
+MySQL to store burger data from user to communicate with database
 Node.js to route data in app
 Handlebars to generate HTML
 
